@@ -1,0 +1,18 @@
+{
+  "name": "n8n-desktop",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^37.2.4"
+  },
+  "dependencies": {
+    "cross-spawn": "^7.0.6"
+  },
+  "description": ""
+}
