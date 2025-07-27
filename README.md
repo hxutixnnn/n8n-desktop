@@ -1,6 +1,12 @@
+![Banner image](./screenshot.jpeg)
+
 # n8n Desktop
 
 A desktop wrapper for [n8n](https://n8n.io/) - the workflow automation platform that lets you connect anything to everything.
+
+## Demo
+
+![Demo](./demo.mp4)
 
 ## Overview
 
