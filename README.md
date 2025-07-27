@@ -6,7 +6,7 @@ A desktop wrapper for [n8n](https://n8n.io/) - the workflow automation platform 
 
 ## Demo
 
-![Demo](./demo.mp4)
+https://github.com/user-attachments/assets/0e0ad94c-6016-427e-867b-c83df84f3002
 
 ## Overview
 
